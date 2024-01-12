@@ -1,0 +1,12 @@
+E:\aip\Spaceships\TxtFIleRead\bin\Debug\net7.0\Reader.deps.json
+E:\aip\Spaceships\TxtFIleRead\bin\Debug\net7.0\Reader.dll
+E:\aip\Spaceships\TxtFIleRead\bin\Debug\net7.0\Reader.pdb
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\Reader.csproj.AssemblyReference.cache
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\Reader.GeneratedMSBuildEditorConfig.editorconfig
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\Reader.AssemblyInfoInputs.cache
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\Reader.AssemblyInfo.cs
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\Reader.csproj.CoreCompileInputs.cache
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\Reader.dll
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\refint\Reader.dll
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\Reader.pdb
+E:\aip\Spaceships\TxtFIleRead\obj\Debug\net7.0\ref\Reader.dll
