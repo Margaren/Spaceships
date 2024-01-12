@@ -1,0 +1,13 @@
+LongRange	25	Amigo
+MiddleRange	60	Fargo
+NearRange	100	Chipmunk
+NearRange	95	Dale
+
+Earth	1	-0.4	0
+Venus	0.7	-0.1	700
+Mercury	0.25	-0.2	180
+Mars	-1.7	-0.6	530
+Jupiter	4.1	2.9	370
+Saturn	9.1	-4.2	810
+Uranus	12.5	15	355
+Neptune	29.1	-1	1801

@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Reader/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Reader.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Reader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reader/1.0.0": {
+      "type": "project",
+      "path": "../TxtFIleRead/Reader.csproj",
+      "msbuildProject": "../TxtFIleRead/Reader.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Reader >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\карасик\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\aip\\Spaceships\\SpaceFleetDispatcher\\SpaceFleetDispatcher.csproj",
+      "projectName": "SpaceFleetDispatcher",
+      "projectPath": "E:\\aip\\Spaceships\\SpaceFleetDispatcher\\SpaceFleetDispatcher.csproj",
+      "packagesPath": "C:\\Users\\карасик\\.nuget\\packages\\",
+      "outputPath": "E:\\aip\\Spaceships\\SpaceFleetDispatcher\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\карасик\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "E:\\aip\\Spaceships\\TxtFIleRead\\Reader.csproj": {
+              "projectPath": "E:\\aip\\Spaceships\\TxtFIleRead\\Reader.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+LongRange	500	Amigo 
+LongRange	что то	Yugo
+MiddleRange	1000	Fargo
+MiddleRange	1200	Bobby
+NearRange	1500	Henry
+NearRange	2000	Chipmunk
+
+Earth	1	-0,4	0
+Venus	0,7	-0,1	700
+Mercury	0,25	-0,2	180
+Mars	-1,7	-0,6	530
+Jupiter	4,1	2,9	370
+Saturn	9,1	-4,2	810
+Uranus	12,5	15	355
+Neptune	29,1	-1	1801

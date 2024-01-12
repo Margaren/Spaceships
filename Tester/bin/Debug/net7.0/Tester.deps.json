@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tester/1.0.0": {
+        "dependencies": {
+          "SpaceFleetDispatcher": "1.0.0",
+          "TxtFIleRead": "1.0.0"
+        },
+        "runtime": {
+          "Tester.dll": {}
+        }
+      },
+      "SpaceFleetDispatcher/1.0.0": {
+        "dependencies": {
+          "TxtFIleRead": "1.0.0"
+        },
+        "runtime": {
+          "SpaceFleetDispatcher.dll": {}
+        }
+      },
+      "TxtFIleRead/1.0.0": {
+        "runtime": {
+          "TxtFIleRead.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpaceFleetDispatcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TxtFIleRead/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

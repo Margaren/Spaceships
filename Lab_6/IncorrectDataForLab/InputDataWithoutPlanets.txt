@@ -1,0 +1,6 @@
+LongRange	500	Amigo
+LongRange	600	Yugo
+MiddleRange	1000	Fargo
+MiddleRange	1200	Bobby
+NearRange	1500	Henry
+NearRange	2000	Chipmunk

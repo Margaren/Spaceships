@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SpaceFleetDispatcher/1.0.0": {
+        "dependencies": {
+          "Reader": "1.0.0"
+        },
+        "runtime": {
+          "SpaceFleetDispatcher.dll": {}
+        }
+      },
+      "Reader/1.0.0": {
+        "runtime": {
+          "Reader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpaceFleetDispatcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
